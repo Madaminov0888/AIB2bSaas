@@ -1,0 +1,59 @@
+{
+  "stats": {
+    "minecraft:custom": {
+      "minecraft:interact_with_crafting_table": 1,
+      "minecraft:talked_to_villager": 3,
+      "minecraft:time_since_rest": 78,
+      "minecraft:walk_one_cm": 109734,
+      "minecraft:leave_game": 2,
+      "minecraft:damage_taken": 60,
+      "minecraft:damage_dealt": 128,
+      "minecraft:play_time": 27347,
+      "minecraft:jump": 91,
+      "minecraft:time_since_death": 27347,
+      "minecraft:interact_with_brewingstand": 1,
+      "minecraft:sprint_one_cm": 408,
+      "minecraft:sleep_in_bed": 2,
+      "minecraft:fall_one_cm": 1776,
+      "minecraft:total_world_time": 27347,
+      "minecraft:fly_one_cm": 27,
+      "minecraft:walk_on_water_one_cm": 708,
+      "minecraft:climb_one_cm": 620
+    },
+    "minecraft:picked_up": {
+      "minecraft:oxeye_daisy": 3,
+      "minecraft:ink_sac": 2,
+      "minecraft:oak_log": 6,
+      "minecraft:poppy": 2,
+      "minecraft:sand": 2,
+      "minecraft:dandelion": 12,
+      "minecraft:wheat_seeds": 2,
+      "minecraft:wildflowers": 3,
+      "minecraft:cornflower": 2,
+      "minecraft:azure_bluet": 2
+    },
+    "minecraft:mined": {
+      "minecraft:short_grass": 9,
+      "minecraft:tall_grass": 2,
+      "minecraft:wildflowers": 2,
+      "minecraft:sand": 2,
+      "minecraft:oak_leaves": 2,
+      "minecraft:bush": 1,
+      "minecraft:poppy": 2,
+      "minecraft:cornflower": 2,
+      "minecraft:oxeye_daisy": 3,
+      "minecraft:dandelion": 12,
+      "minecraft:oak_log": 6,
+      "minecraft:azure_bluet": 3
+    },
+    "minecraft:used": {
+      "minecraft:oxeye_daisy": 3,
+      "minecraft:wildflowers": 3,
+      "minecraft:poppy": 2,
+      "minecraft:cornflower": 2,
+      "minecraft:azure_bluet": 2,
+      "minecraft:dandelion": 12
+    }
+  },
+  "DataVersion": 4903
+}
